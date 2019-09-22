@@ -41,6 +41,9 @@ https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/
 * Tesseract
 * OCR-D
 
+### HyperParameters
+* Tuning
+
 ### Base 
 
 * Abby Arktur
