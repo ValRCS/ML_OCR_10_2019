@@ -54,3 +54,4 @@ https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/
 
 * https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa
 * http://www.cvisiontech.com/resources/ocr-primer/ocr-neural-networks-and-other-machine-learning-techniques.html
+* https://www.learnopencv.com/deep-learning-based-text-recognition-ocr-using-tesseract-and-opencv/
