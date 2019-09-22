@@ -24,6 +24,9 @@ https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/
 * Deep Fakes
 * GAN - Adversial Networks
 
+### Hype vs Reality
+* The many pseudo AI groups - MTurk vs real AI
+
 ## Importance of Domain Knowledge 
 * Triangle of Data Science goes here
 
