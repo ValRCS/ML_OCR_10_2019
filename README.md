@@ -17,6 +17,13 @@ Effectiveness of Data
 https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35179.pdf
 * https://en.wikipedia.org/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences
 
+* Google reCaptcha - are we all working for Google now?
+* Deep Mind
+
+### Bleeding State of Art
+* Deep Fakes
+* GAN - Adversial Networks
+
 ## Importance of Domain Knowledge 
 * Triangle of Data Science goes here
 
