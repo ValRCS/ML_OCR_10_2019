@@ -26,6 +26,7 @@ https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/
 
 ### Hype vs Reality
 * The many pseudo AI groups - MTurk vs real AI
+* Practicality - Netflix Challenge
 
 ## Importance of Domain Knowledge 
 * Triangle of Data Science goes here
